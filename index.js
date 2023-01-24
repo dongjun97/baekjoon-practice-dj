@@ -1,0 +1,1 @@
+require('./problems/1000');
