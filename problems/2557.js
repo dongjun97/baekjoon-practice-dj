@@ -8,7 +8,7 @@
  * 
  * 
  * 출력
- * <
+ * Hello World!
  * 
  * let n = require("fs").readFileSync('/dev/stdin').toString().split(' ');
  */
