@@ -15,3 +15,4 @@ require('./problems/2588');
 require('./problems/2675');
 require('./problems/2739');
 require('./problems/2741');
+require('./problems/2742');
