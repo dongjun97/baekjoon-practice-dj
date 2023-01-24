@@ -6,3 +6,4 @@ require('./problems/1152');
 require('./problems/1330');
 require('./problems/1546');
 require('./problems/2438');
+require('./problems/2439');
