@@ -3,3 +3,4 @@ require('./problems/1001');
 require('./problems/1008');
 require('./problems/1110');
 require('./problems/1152');
+require('./problems/1330');
