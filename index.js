@@ -18,3 +18,4 @@ require('./problems/2741');
 require('./problems/2742');
 require('./problems/2753');
 require('./problems/2884');
+require('./problems/2908');
